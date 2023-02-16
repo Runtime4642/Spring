@@ -6,7 +6,7 @@
 
 
 
-![없음](./download.PNG)
+![없음](./download.png)
 출처 : https://www.codenuclear.com/spring-mvc-flow-with-example/
 
 dispatcherServlet 가 요청을 먼저 받아서 적절한 Controller를 찾아서 실행시킨다.
